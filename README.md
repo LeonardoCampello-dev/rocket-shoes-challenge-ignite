@@ -1,19 +1,12 @@
 <h1 align="center">
     <img 
-        src="./src/assets/images/logo.svg"
-        width="400px"
-        alt="Rocket shoes logo"
-    >
-</h1>
-
-<h1 align="center">
-    <img 
         src="https://media.giphy.com/media/ElK36P9qpo6AuCa5D7/giphy.gif"
-        width="250px"
+        width="300px"
         alt="Rocket shoes gif"
     >
 </h1>
 
+<h1 align="center">RocketShoes 👟</h1>
 
 <h4 align="center">
 
